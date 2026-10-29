@@ -10,7 +10,6 @@ import seaborn as sns
 st.set_page_config(page_title="TSP Genetic Algorithm", layout="wide")
 
 st.title("🗺️ Traveling Salesperson Problem (TSP) using Genetic Algorithm")
-st.markdown("Based on Dr. Fakhitah's Evolutionary Computing Tutorial.")
 
 # --- SIDEBAR CONTROLS (The little tweak for interactivity) ---
 st.sidebar.header("GA Parameters Control")
