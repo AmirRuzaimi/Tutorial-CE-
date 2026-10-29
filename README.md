@@ -30,10 +30,11 @@ Solves the classical NP-hard Traveling Salesperson Problem across cities using e
 * **Selection & Variation:** Implements Roulette Wheel Selection, Order/Cut Crossover, and Swap Mutation.
 
 ---
-Author
-Student Name: Amir Ruzaimi
+## Author
+
+Student Name: Amir Ruzaimi Bin Kamarulzaman 
 Course: JIE42903 – Evolutionary Computing
 Institution: Universiti Malaysia Kelantan (UMK)
 Lecturer: Ts. Dr. Fakhitah Ridzuan
---- 
+
 
