@@ -16,7 +16,7 @@ POP_SIZE = 500
 #MUT_RATE = 0.2
 
 #TARGET: Our goal.
-#TARGET = 'fakhitah'
+#TARGET = 'amir'
     
 
 #GENES: Options from which our population would be created.
