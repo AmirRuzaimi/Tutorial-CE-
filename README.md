@@ -1,6 +1,6 @@
 # Tutorial-CE-# 🧬 Evolutionary Computing – Genetic Algorithm Assignment (JIE42903)
 
-This repository contains the source code and implementation for the **JIE42903 Evolutionary Computing** course assignment at **Universiti Malaysia Kelantan (UMK)**, taught by **Ts. Dr. Fakhitah Ridzuan**.
+This repository contains the source code and implementation for the **JIE42903 Evolutionary Computing** course assignment at **Universiti Malaysia Kelantan (UMK)**.
 
 ---
 
@@ -35,6 +35,4 @@ Solves the classical NP-hard Traveling Salesperson Problem across cities using e
 * Student Name: Amir Ruzaimi Bin Kamarulzaman
 * Course: JIE42903 – Evolutionary Computing
 * Institution: Universiti Malaysia Kelantan (UMK)
-* Lecturer: Ts. Dr. Fakhitah Ridzuan
-
 
